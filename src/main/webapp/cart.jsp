@@ -18,7 +18,7 @@
     <th>Amount</th>
     <th></th>
   </tr>
-
+//kusocisme
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <c:forEach var="item" items="${cart.items}">
   <tr>
